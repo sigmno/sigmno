@@ -1,4 +1,6 @@
-## 👋 Привет я Matvei
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Matvei</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 Я начинающий веб разработчик.
 
 
@@ -15,7 +17,6 @@ HTMLS,CSS3,JAVASCRIPT(ОСНОВЫ)
 
 
 
-<img width="297" height="113" alt="image" src="https://github.com/user-attachments/assets/02e5de3f-31ea-490a-86d2-701de0a88c35" />
 
 
 
