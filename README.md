@@ -2,9 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 Я начинающий веб разработчик.
+
+
 Я могу использовать html css javascript.
-HTMLS,CSS3,JAVASCRIPT(ОСНОВЫ)
-работа с разными инструментами.
+
+
+Учусь в люберецком техникуме имени героя совесткого летчика Ю.А Гагарина.
 
 
 
